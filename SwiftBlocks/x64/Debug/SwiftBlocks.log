@@ -1,0 +1,10 @@
+﻿  Main.cpp
+C:\Users\95mic\OLD_Cplusplus\SwiftBlocks\Main.cpp(164,27): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\95mic\OLD_Cplusplus\SwiftBlocks\Main.cpp(165,27): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\95mic\OLD_Cplusplus\SwiftBlocks\Main.cpp(204,1): warning C4305: "=": obcięcie z "double" do "float"
+C:\Users\95mic\OLD_Cplusplus\SwiftBlocks\Main.cpp(205,1): warning C4305: "=": obcięcie z "double" do "float"
+C:\Users\95mic\OLD_Cplusplus\SwiftBlocks\Main.cpp(335,31): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\95mic\OLD_Cplusplus\SwiftBlocks\Main.cpp(336,31): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\95mic\OLD_Cplusplus\SwiftBlocks\Main.cpp(370,33): warning C4305: "=": obcięcie z "double" do "float"
+C:\Users\95mic\OLD_Cplusplus\SwiftBlocks\Main.cpp(371,33): warning C4305: "=": obcięcie z "double" do "float"
+  SwiftBlocks.vcxproj -> C:\Users\95mic\OLD_Cplusplus\x64\Debug\SwiftBlocks.exe

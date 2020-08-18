@@ -1,7 +1,7 @@
 # SwiftBlocks
 College project written in C++.
 
-Run SwiftBlocks.exe to run the program.
+Run SwiftBlocks.exe from x64/Debug folder to run the program.
 
 
 Manuals:
